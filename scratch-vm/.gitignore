@@ -1,0 +1,21 @@
+# Mac OS
+.DS_Store
+
+# NPM
+/node_modules
+
+# Testing
+/.nyc_output
+/coverage
+
+# Editor
+/.idea
+/.vscode
+
+# Build
+/dist
+/playground
+/benchmark
+
+# Localization
+/translations
